@@ -1,2 +1,6 @@
 # hello-world
-First repo on github
+First repository on github
+
+Changed repo to repository above
+
+I used git but not github before
